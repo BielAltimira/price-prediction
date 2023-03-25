@@ -26,8 +26,6 @@
   <img src="screenshot.gif" alt="animated" />
 </p>
  
-
-<br></br>
 ## About the project 
 
 I developed a project studying Artificial Intelligence throughout history, analyzing different Machine Learning procedures, evaluating the ethics of the field and programming an algorithm able to predict prices of second hand vehicles and house value as a proof of all the gained knowledge.
